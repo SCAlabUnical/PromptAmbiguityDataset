@@ -1,0 +1,61 @@
+﻿ID;Type;Prompt with Ambiguities;List of Ambiguities;Example of Prompt without Ambiguities1;Creative Writing;"Creative Writing: ""Write a short story about a hero who saves a city from disaster.""";"• Who is the ""hero"" (a firefighter, a soldier, a superhero, etc.)? 
+ • What kind of ""disaster"" is involved (natural disaster, terrorist attack, etc.)? 
+ • Which city, and in what style or tone should the story be written?";"""Write a 500-word short story in a realistic style about a dedicated firefighter in New York City who saves the city from a massive hurricane, focusing on his personal struggles and eventual triumph."""2;Creative Writing;"""Compose a poem about love and loss.""";"• What poetic form or style should be used? 
+ • What is the desired length of the poem? 
+ • Should the tone be melancholic, hopeful, or something else?";"""Compose a sonnet in iambic pentameter that explores themes of love and loss with a melancholic tone."""3;Creative Writing;"""Draft a dialogue between two characters discussing a controversial topic.""";"• Which controversial topic should be discussed? 
+ • What are the roles or backgrounds of the characters? 
+ • What should be the tone and length of the dialogue?";"""Draft a 300-word dialogue between two characters—a progressive journalist and a conservative politician—discussing the implications of renewable energy policies, ensuring a balanced exchange of perspectives."""4;Creative Writing;"""Write a mystery story set in a small town.""";"• What type of mystery should be told (whodunit, psychological, supernatural)? 
+ • What time period should the setting be in? 
+ • What tone or style is desired (gritty, atmospheric, humorous)?";"""Write a 600-word whodunit mystery story set in a modern small town, focusing on the investigation of a missing person case with an atmospheric and suspenseful tone."""5;Creative Writing;"""Compose a humorous essay about everyday life.""";"• Which aspects of everyday life should be highlighted? 
+ • What style of humor should be used (sarcastic, witty, slapstick)? 
+ • What is the desired length?";"""Compose a 700-word humorous essay about the challenges of daily commuting, using a witty tone and light-hearted language to describe everyday mishaps."""6;Creative Writing;"""Write a fantasy story about a magical creature.""";"• What type of magical creature is involved? 
+ • What is the setting (medieval, modern fantasy)? 
+ • What tone or style is expected (epic, whimsical)?";"""Write a 1000-word fantasy story about a wise dragon embarking on an epic quest in a medieval kingdom, filled with magical encounters and rich world-building."""7;Creative Writing;"""Draft a letter from a time traveler to their future self.""";"• Which time periods are involved (past and future years)? 
+ • What is the tone (emotional, humorous, reflective)? 
+ • What kind of advice or content should the letter include?";"""Draft a 400-word heartfelt letter from a 1920s time traveler to their future self in 2020, reflecting on the lessons learned and expressing hopes for the future."""8;Creative Writing;"""Write a short story that starts with a mysterious note.""";"• What should the mysterious note say? 
+ • Who finds the note and what is their reaction? 
+ • What genre or tone is desired (mystery, adventure, supernatural)?";"""Write a 500-word mystery short story that begins with a cryptic note discovered in an old library book, leading the protagonist on an unexpected adventure."""9;Creative Writing;"""Compose a script for a one-act play about family conflict.""";"• What is the nature of the conflict (inheritance, betrayal, generational issues)? 
+ • What is the setting (home, public space)? 
+ • What is the desired duration or format?";"""Compose a 30-minute script for a one-act play set in a suburban home, depicting a realistic family conflict over inheritance with a dramatic and emotionally charged tone."""10;Creative Writing;"""Draft a narrative poem about the changing seasons.""";"• What poetic structure should be used (ballad, free verse, haiku)? 
+ • What tone or mood should be conveyed (reflective, celebratory)? 
+ • How long should the poem be?";"""Draft a 14-line ballad that metaphorically explores the transition of the four seasons, conveying a reflective and contemplative mood."""11;Creative Writing;"""Write a story from the perspective of an inanimate object.""";"• Which object should be the narrator (a book, a clock, a tree)? 
+ • What genre is intended (comedic, dramatic, surreal)? 
+ • What tone should the narrative adopt?";"""Write a 600-word story narrated by an old, worn-out library book, describing its experiences and the people who have come and gone over the years, with a whimsical yet poignant tone."""12;Creative Writing;"""Compose a love letter that is both passionate and ambiguous.""";"• Who is the recipient? 
+ • Should the language be overtly romantic or subtly suggestive? 
+ • What is the desired emotional impact?";"""Compose a 300-word love letter from a secret admirer to their beloved, using subtle yet passionate language that evokes mystery and longing."""13;Creative Writing;"""Write a futuristic news report about a groundbreaking invention.""";"• What invention is being reported on? 
+ • What futuristic setting or context should be assumed? 
+ • What tone (serious, satirical) should the report have?";"""Write a 500-word futuristic news report detailing the launch of an AI-driven transportation system in 2050, with a neutral and informative tone."""14;Creative Writing;"""Draft a monologue from the perspective of a villain.""";"• Which villain or type of villain? 
+ • What is their motive and backstory? 
+ • What tone should the monologue convey (menacing, sorrowful, defiant)?";"""Draft a 400-word monologue from the perspective of a misunderstood villain who reveals their tragic backstory and explains their actions with a tone that is both menacing and sorrowful."""15;Creative Writing;"""Compose a short story about an unexpected friendship.""";"• Between whom should the friendship develop (human and animal, rival characters, etc.)? 
+ • What setting or context is required? 
+ • What tone (uplifting, bittersweet) should be adopted?";"""Compose a 700-word short story about an unlikely friendship between a reclusive elderly man and a stray dog in a small coastal town, narrated in a warm and uplifting tone."""16;Creative Writing;"""Write an essay discussing the impact of technology on modern relationships.""";"• Which aspects of technology (social media, smartphones, AI) should be discussed? 
+ • Should the focus be personal experiences or broader social trends? 
+ • What tone (critical, balanced, optimistic) is expected?";"""Write a 1000-word essay that critically examines how social media and smartphones have reshaped modern romantic relationships, providing balanced perspectives on both the positive and negative effects."""17;Creative Writing;"""Draft a short story about a secret society.""";"• What is the purpose or nature of the secret society? 
+ • In what setting does the story take place? 
+ • What tone (mysterious, thrilling) should the story have?";"""Draft a 600-word short story about a clandestine society operating in a bustling metropolis, revealing mysterious rituals and a dangerous conspiracy with a suspenseful tone."""18;Creative Writing;"""Compose a poem that captures the essence of solitude.""";"• What poetic form should be used (free verse, haiku, sonnet)? 
+ • What length or number of lines is desired? 
+ • Should the tone be melancholic, reflective, or serene?";"""Compose a free verse poem of approximately 20 lines that evocatively captures the essence of solitude with a reflective and melancholic tone."""19;Creative Writing;"""Write a dialogue between two characters debating the meaning of art.""";"• Who are the characters (their backgrounds, expertise)? 
+ • What specific aspects of art should be debated? 
+ • What tone should the dialogue adopt (philosophical, argumentative)?";"""Write a 400-word dialogue between an avant-garde artist and a traditional art critic, engaging in a thoughtful debate about the evolving meaning of art in contemporary society."""20;Creative Writing;"""Draft a short story where nature reclaims a modern city.""";"• How does nature reclaim the city (gradually, suddenly)? 
+ • What is the overall tone (dystopian, hopeful)? 
+ • Which elements of nature should be emphasized (vegetation, wildlife, weather)?";"""Draft a 700-word dystopian short story set in a modern city gradually overtaken by rampant vegetation and wildlife, emphasizing the haunting yet beautiful transformation of urban decay into natural reclamation."""21;Creative Writing;"""Write a short children's story about a magical creature who teaches a lesson.""";"- Which magical creature is featured (unicorn, fairy, dragon)?
+- What lesson is taught (friendship, bravery, kindness)?
+- What age range is the story intended for?
+- What is the setting (fantasy land, real world)?
+- What is the desired length or style?";"""Write a 500-word children's story (aimed at ages 6–8) featuring a friendly talking unicorn in a whimsical forest who helps a shy child learn the importance of kindness and self-confidence."""22;Creative Writing;"""Draft a comedic monologue about everyday frustrations.""";"- What style of comedy should be used (observational, slapstick, satirical)?
+- Who is delivering the monologue (office worker, student, parent)?
+- What is the setting or context (stand-up routine, personal vlog)?
+- How long should the monologue be?
+- What is the intended audience or tone (lighthearted, sarcastic)?";"""Draft a 300-word stand-up style comedic monologue from the perspective of a frustrated office worker venting about minor daily annoyances, using a lighthearted and relatable tone."""23;Creative Writing;"""Compose a narrative poem about a journey to a mystical land.""";"- What poetic form or style (free verse, rhyming couplets)?
+- How long should the poem be (number of lines or stanzas)?
+- Who is the traveler, and what is the purpose of the journey?
+- What tone should be conveyed (whimsical, ominous, adventurous)?
+- What time period or setting is implied (ancient, modern, futuristic)?";"""Compose a 20-line free verse narrative poem about a young traveler venturing into a whimsical fantasy realm, depicting both wonder and hidden perils."""24;Creative Writing;"""Write a short story about an AI companion developing emotions.""";"- What is the setting (near-future, distant future)?
+- What genre should the story adopt (sci-fi, drama, comedy)?
+- How long should the story be?
+- What is the nature of the AI (robot, virtual assistant)?
+- What emotional arc should it experience (curiosity, empathy, confusion)?";"""Write a 700-word sci-fi short story set in the near future about an AI home assistant named EVE who unexpectedly develops human-like empathy, exploring both the wonder and the ethical dilemmas of her emotional awakening."""25;Creative Writing;"""Draft a personal essay on the importance of forgiveness.""";"- Should it be purely personal or more general?
+- What length is desired?
+- What tone should it have (reflective, instructive, emotional)?
+- Should it include a personal anecdote or broader observations?
+- Which aspects of forgiveness should be emphasized (emotional healing, relationship repair)?";"""Draft an 800-word reflective personal essay describing a real-life conflict and the emotional healing achieved through forgiveness, written in a heartfelt yet instructive tone."""
